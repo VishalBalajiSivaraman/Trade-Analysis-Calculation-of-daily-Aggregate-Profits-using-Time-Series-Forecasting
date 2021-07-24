@@ -1,4 +1,4 @@
-# Trade-Analysis-Calculation-of-daily-Agregate-Profits-using-Time-Series-Forecasting
+# Trade-Analysis-Calculation-of-daily-Aggregate-Profits-using-Time-Series-Forecasting
 This was  my first intern role assessment so hence took the opportunity to devise a solution for the same,There would be two  dedicated notebooks and py files following different methods.Out of which
 
 ***IPA:The files that have this type of a name would be following the strategy of choosing the best dataset out of the 16 different datasets based on the day, time of trade followed by the mode of choosing i.e (User Input,Automation (using system time and date)) followed by which the dataset would be preprocessed ,claculation of profit aand loss for the dataset would be performed followed by which model training would be performed and the model showing the best results would be used for forecasting the aggregate profit and loss on a daily basis for an year.***
